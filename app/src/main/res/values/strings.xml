@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Random Number Generator</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="banner_text">Please enter in the numbers</string>
+    <string name="about_text">This game generates a random number from the numbers you chose. By Esther (Wachspress) Stern MCON255 Fall 23</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+</resources>
